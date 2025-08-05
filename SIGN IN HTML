@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sign in page</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="image1">
+        <img src="https://static.xx.fbcdn.net/rsrc.php/y1/r/4lCu2zih0ca.svg" alt="">
+    </div>
+    <div class="form">
+        <form action="" id="form">
+            <h2>Create a New Account</h2>
+            <h4>It's quick and easy.</h4>
+            <hr>
+            <div class="input12">
+                <div class="first">
+                    <label for="username"></label>
+                    <input type="text" id="username" name="username" placeholder="First name">
+                </div>
+                <div class="fir">
+                    <label for="username"></label>
+                    <input type="text" id="username" name="username" placeholder="Surname">
+                </div>  
+            </div>
+            <p>Date of Birth</p>
+        </form>
+    </div>
+</body>
+
+</html>
